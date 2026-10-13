@@ -1,1 +1,16 @@
-
+{
+  "games": [
+    {
+      "id": "AppMusique",
+      "name": "Music Time",
+      "type": "app",
+      "platform": "android",
+      "color": "#a31b00",
+      "repo": "ton-pseudo/mon-app",
+      "web": null,
+      "banners": [],
+      "videos": [],
+      "desc": { "fr": "Une application musicale qui peut rivaliser avec les grands.", "en": "Android app." }
+    }
+  ]
+}
